@@ -40,6 +40,13 @@ If there are any issues relating to the build tree info (not the workflow file c
 > - Some of PBRP's branches have missing pb_build.sh files (like 9.0), so the build will fail, but you can still flash the recovery.img, and it will be uploaded to releases. For the .zips, you can go to PBRP's vendor utils repo and find them there in PBRP/tools (location may vary).
 > - Why Ubuntu-20.04 for some workflows? Because python-is-python2 is replaced with python-is-python3 past 20.04.
 
+## 🤝 Support
+
+If you run into any issues, check out our **[Discord server](https://discord.gg/3zbfaTNN7V)** or open a GitHub issue to let us know!
+
+[<img src="https://github.com/user-attachments/assets/f61046f5-1dc5-4b0c-87f8-4a94d6cbac96">](https://discord.gg/3zbfaTNN7V)
+
+**⭐ If this tool was of any use to you, please consider giving it a Star - it would make my day! ⭐**
 
 ## Thanks/Credits
  - [CaptainThrowback](https://github.com/CaptainThrowback)
