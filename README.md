@@ -1,4 +1,7 @@
-# Recovery Builder for |TWRP / PBRP / OFRP / SHRP|
+# Auto Custom Recovery Builder |TWRP / PBRP / OFRP / SHRP|
+
+An simple tool to automatically build a TWRP, PBRP, OFRP, or SHRP recovery image for your Android device.
+
 Compile your first custom recovery via Github Actions.
 
 This repo comes from a long chain of forks and finally ended up with working shrp and some revamping of the workflow files to work for older android devices (tested with 9.0). 
